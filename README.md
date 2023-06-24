@@ -1,6 +1,7 @@
 # Hello ChatGPT - A simple interactive prompt
 
 ## Usage
+0. You're encouraged to use `pyenv` - note the included `.python-version` file.
 1. `pip install -r requirements.txt`
 2. Create a file called `constants.py` and populate your OpenAI API key, as follows:
 
