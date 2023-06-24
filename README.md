@@ -20,3 +20,9 @@ Alternatively, send an optional style in which ChatGPT should respond, as follow
 ```sh
 python ./chatgpt.py --style "a pirate
 ```
+
+Assuming you're on a Mac, you can optionally enable text-to-speech, like so:
+
+```sh
+python ./chatgpt.py --speak
+```
